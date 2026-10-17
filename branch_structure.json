@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1001-ba-088-keep-xp-event-timestamps-in-utc",
+    "fix/issue-1002-ba-089-bound-xp-history-queries",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1001-ba-088-keep-xp-event-timestamps-in-utc": "main",
+    "fix/issue-1002-ba-089-bound-xp-history-queries": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1001-ba-088-keep-xp-event-timestamps-in-utc",
+    "fix/issue-1002-ba-089-bound-xp-history-queries",
+    "origin"
+  ]
+}
